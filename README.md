@@ -1,102 +1,96 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Narala%20Manoj%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+<!-- 3D Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0D0D2B,60:1a0533,100:000000&height=300&section=header&text=MANOJ%20YADAV&fontSize=80&fontColor=00FFFF&animation=twinkling&fontAlignY=45&stroke=7B2FBE&strokeWidth=3&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20ML%20Explorer&descSize=20&descAlignY=68&descAlign=50&descColor=ffffff"/>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI-Powered+Web+Applications+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+Python+%F0%9F%90%8D;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%F0%9F%A4%96;Open+Source+Contributor+%7C+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=600&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%F0%9F%9A%80+Building+AI-Powered+Web+Applications;%F0%9F%A4%96+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%E2%9A%A1+React+%7C+Next.js+%7C+Node.js+%7C+Python;%F0%9F%8C%90+Open+to+Top+Tier+Opportunities+Worldwide;%F0%9F%94%A5+Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
 
 <br/>
 
-<!-- Animated Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=NARALAMANOJYADAV&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=NARALAMANOJYADAV&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/NARALAMANOJYADAV?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
+<img src="https://img.shields.io/github/followers/NARALAMANOJYADAV?label=FOLLOWERS&style=for-the-badge&color=00ffff&labelColor=0d0d2b" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- About Me Section with animated image -->
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
-## 🧑‍💻 About Me
+## 🌌 `whoami`
 
-```yaml
-name: Narala Manoj Yadav
-location: Hyderabad, Telangana, India
-education: B.Tech AI & Data Science
-focus:
-  - AI-Powered Web Applications
-  - Machine Learning & Deep Learning
-  - Natural Language Processing
-  - Full Stack Development
-currently_building: "Next-gen AI tools for real-world impact"
-available_for: Internships, Full-time, Collaborations
-fun_fact: "I turn coffee into code and data into decisions ☕"
+```json
+{
+  "name": "Narala Manoj Yadav",
+  "role": ["AI Engineer", "Full Stack Developer"],
+  "location": "Hyderabad, Telangana 🇮🇳",
+  "education": "B.Tech — AI & Data Science",
+  "stack": ["Python", "React", "Next.js", "Node.js", "LangChain"],
+  "ai_focus": ["LLMs", "RAG", "Computer Vision", "NLP"],
+  "status": "Open for Internships & Full-time Roles",
+  "mission": "Build AI that actually makes life better",
+  "fun_fact": "I debug with console.log and I'm not sorry 🙃"
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,c&perline=6" />
-
-### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&perline=6" />
-
-### 🤖 AI / ML
+### 🧠 AI & Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&perline=4" />
+### 🌐 Full Stack
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=gcp,docker,git,github&perline=4" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 AI Projects
-- 🧠 **LLM Fine-tuning** — Domain-specific language models  
-- 🔍 **RAG Applications** — Retrieval Augmented Generation pipelines  
-- 🌐 **AI Web Apps** — Full-stack apps with AI at the core  
+| 🔬 Project | 📝 Description | 🛠 Stack |
+|:---:|:---|:---:|
+| 🤖 **AI Chat App** | LLM-powered chat with RAG pipeline | Next.js · LangChain · OpenAI |
+| 🔍 **Smart Search** | Semantic search with vector embeddings | Python · FAISS · HuggingFace |
+| 🌐 **AI Dashboard** | Real-time ML model monitoring UI | React · Node.js · MongoDB |
+| 📊 **Data Pipeline** | Automated ETL with ML predictions | Python · Pandas · GCP |
 
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- 📦 **LangChain & LangGraph** — Agentic AI workflows  
-- ☁️ **Cloud AI** — GCP Vertex AI, AWS SageMaker  
-- 🏗️ **System Design** — Scalable architectures  
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NARALAMANOJYADAV&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NARALAMANOJYADAV&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </div>
 
 ---
@@ -105,19 +99,22 @@ fun_fact: "I turn coffee into code and data into decisions ☕"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NARALAMANOJYADAV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NARALAMANOJYADAV&theme=tokyonight&hide_border=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NARALAMANOJYADAV&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D0D2B&title_color=00FFFF&icon_color=7B2FBE&text_color=ffffff" />
+&nbsp;
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=NARALAMANOJYADAV&theme=radical&hide_border=true&background=0D0D2B&ring=00FFFF&fire=7B2FBE&currStreakLabel=00FFFF" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARALAMANOJYADAV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/>
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NARALAMANOJYADAV&layout=compact&theme=radical&hide_border=true&bg_color=0D0D2B&title_color=00FFFF&text_color=ffffff&langs_count=8" />
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NARALAMANOJYADAV&custom_title=Manoj's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NARALAMANOJYADAV&custom_title=Manoj's%20Activity%20Graph&bg_color=0D0D2B&color=00FFFF&line=7B2FBE&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&radius=6"/>
 </div>
 
 ---
@@ -128,33 +125,45 @@ fun_fact: "I turn coffee into code and data into decisions ☕"
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📋 Activity Summary
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NARALAMANOJYADAV&theme=2077"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NARALAMANOJYADAV&theme=2077"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NARALAMANOJYADAV&theme=2077"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NARALAMANOJYADAV&theme=2077"/>
+</div>
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NARALAMANOJYADAV)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+<a href="https://github.com/NARALAMANOJYADAV"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+
+<br/><br/>
+
+> *"I don't just write code — I build experiences powered by intelligence."*
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💡 Dev Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0533,80:0D0D2B,100:000000&height=150&section=footer&text=Let%27s+Build+Something+Amazing+%F0%9F%9A%80&fontSize=28&fontColor=00FFFF&animation=twinkling&fontAlignY=65"/>
