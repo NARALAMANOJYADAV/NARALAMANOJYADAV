@@ -33,7 +33,6 @@ body:hover #cur{opacity:1;}
 
 /* ── THREE.JS BG ── */
 #threeBg{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none;}
-
 /* ── NOISE OVERLAY ── */
 .noise{position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.025;
   background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
