@@ -86,13 +86,6 @@
 </div>
 
 ---
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NARALAMANOJYADAV&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -119,15 +112,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/NARALAMANOJYADAV/NARALAMANOJYADAV/output/github-contribution-grid-snake.svg"/>
-</picture>
-</div>
 
 ---
 
