@@ -108,11 +108,6 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NARALAMANOJYADAV&custom_title=Manoj's%20Activity%20Graph&bg_color=0D0D2B&color=00FFFF&line=7B2FBE&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&radius=6"/>
 </div>
-
----
-
-
-
 ---
 
 ## 📋 Activity Summary
