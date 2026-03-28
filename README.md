@@ -26,7 +26,7 @@
 {
   "name": "Narala Manoj Yadav",
   "role": ["AI Engineer", "Full Stack Developer"],
-  "location": "Hyderabad, Telangana 🇮🇳",
+  "location": "Nellore, Andhra pradesh",
   "education": "B.Tech — AI & Data Science",
   "stack": ["Python", "React", "Next.js", "Node.js", "LangChain"],
   "ai_focus": ["LLMs", "RAG", "Computer Vision", "NLP"],
